@@ -10,4 +10,4 @@
 
 ![Batman](batman.png "BatMan")
 
-[![Justice League](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://youtu.be/tdFBZTLdt3g "Justice League")
+[![Justice League](Justice League.jpg)](https://youtu.be/tdFBZTLdt3g "Justice League")
